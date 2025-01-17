@@ -1,0 +1,1 @@
+# wanim-service-autoupdate
