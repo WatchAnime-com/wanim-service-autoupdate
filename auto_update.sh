@@ -9,5 +9,6 @@ docker pull criy/wanim-services:video-list-service-latest
 docker pull criy/wanim-services:user-service-latest
 docker pull criy/wanim-services:video-node-server-latest
 docker pull criy/wanim-services:video-service-latest
+docker pull criy/wanim-services:sitemap-service-latest
 
 # Buraya ek olarak yapmak istediğiniz başka işlemleri de ekleyebilirsiniz
